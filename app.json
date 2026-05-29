@@ -30,7 +30,7 @@
       {
         "photosPermission": "Allow this app to access your photos.",
         "savePhotosPermission": "Allow this app to save photos to your library.",
-        "isGrantingPermission": true
+        "isAccessMediaLocationEnabled": true
       }],
 
       ["expo-router"],
