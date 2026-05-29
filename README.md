@@ -48,3 +48,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed, and grab the **Expo
    ```bash
    git clone [https://github.com/lifeinData/StickerSmash.git](https://github.com/lifeinData/StickerSmash.git)
    cd StickerSmash
+   npx expo start
